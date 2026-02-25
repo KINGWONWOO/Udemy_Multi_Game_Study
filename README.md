@@ -3,6 +3,7 @@
 <img src="Doc/Images/Udemy_GameStudy.png" width="800" height="450" style="object-fit: cover;" alt="Main Banner">
 
 > "C++ 기초부터 멀티플레이어 시스템, 호러 게임 메커니즘까지."
+> 
 > 이 프로젝트는 Udemy의 핵심 Unreal Engine 강의 3종을 학습하며 실습한 내용을 통합 관리하는 레포지토리입니다. 엔진의 심층적인 이해와 실무적인 게임 루프 구현 능력을 기르는 데 중점을 두었습니다. 교육 수료증은 아래의 탭에서 확인 가능합니다.
 
 <details>
