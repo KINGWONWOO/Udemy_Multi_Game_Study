@@ -9,7 +9,7 @@
 /**
  *  Simple GameMode for a third person game
  */
-UCLASS(abstract)
+UCLASS(minimalapi)
 class APuzzlePlatformGameMode : public AGameModeBase
 {
 	GENERATED_BODY()

@@ -23,38 +23,22 @@ public:
 	virtual void Init();
 
 	UFUNCTION(BlueprintCallable)
-	void LoadMenuWidget();
+	void LoadMenu();
 
 	UFUNCTION(BlueprintCallable)
 	void InGameLoadMenu();
 
 	UFUNCTION(Exec)
-	void Host(FString ServerName) override;
+	void Host() override;
 
 	UFUNCTION(Exec)
-	void Join(uint32 Index) override;
-
-	void StartSession();
+	void Join(const FString& Address) override;
 
 	virtual void LoadMainMenu() override;
-
-	void RefreshServerList() override;
 
 private:
 	TSubclassOf<class UUserWidget> MenuClass;
 	TSubclassOf<class UUserWidget> InGameMenuClass;
 
-	class UMainMenu* MMenu;
-
-	IOnlineSessionPtr SessionInterface;
-	TSharedPtr<class FOnlineSessionSearch> SessionSearch;
-
-	void OnCreateSessionComplete(FName SessionName, bool bWasSuccessful);
-	void OnDestroySessionComplete(FName SessionName, bool bWasSuccessful);
-	void OnFindSessionsComplete(bool Success);
-	void OnJoinSessionComplete(FName SessionName, EOnJoinSessionCompleteResult::Type Result);
-	void OnNetworkInFailure(UWorld* World, UNetDriver* NetDriver, ENetworkFailure::Type FailureType, const FString& ErrorString);
-
-	FString DesiredServerName;
-	void CreateSession();
+	class UMainMenu* Menu;
 };
