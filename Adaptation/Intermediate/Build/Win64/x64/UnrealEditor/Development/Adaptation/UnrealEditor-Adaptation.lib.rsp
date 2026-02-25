@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Adaptation.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/qudtn/UnrealEngine/Adaptation/Intermediate/Build/Win64/x64/AdaptationEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/qudtn/UnrealEngine/Adaptation/Intermediate/Build/Win64/x64/UnrealEditor/Development/Adaptation/Module.Adaptation.gen.cpp.obj"
+"C:/Users/qudtn/UnrealEngine/Adaptation/Intermediate/Build/Win64/x64/UnrealEditor/Development/Adaptation/Adaptation.cpp.obj"
+"C:/Users/qudtn/UnrealEngine/Adaptation/Intermediate/Build/Win64/x64/UnrealEditor/Development/Adaptation/DefaultCharacter.cpp.obj"
+"C:/Users/qudtn/UnrealEngine/Adaptation/Intermediate/Build/Win64/x64/UnrealEditor/Development/Adaptation/PerModuleInline.gen.cpp.obj"
+"C:/Users/qudtn/UnrealEngine/Adaptation/Intermediate/Build/Win64/x64/UnrealEditor/Development/Adaptation/Default.rc2.res"
+/OUT:"C:/Users/qudtn/UnrealEngine/Adaptation/Intermediate/Build/Win64/x64/UnrealEditor/Development/Adaptation/UnrealEditor-Adaptation.lib"

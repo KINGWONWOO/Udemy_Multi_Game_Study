@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Adaptation",
+			"Path": "..\\Source\\Adaptation.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AdaptationEditor",
+			"Path": "..\\Source\\AdaptationEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

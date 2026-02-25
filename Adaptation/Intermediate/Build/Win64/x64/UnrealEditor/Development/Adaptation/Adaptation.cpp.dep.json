@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\qudtn\\unrealengine\\adaptation\\source\\adaptation\\adaptation.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\qudtn\\unrealengine\\adaptation\\intermediate\\build\\win64\\x64\\adaptationeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\qudtn\\unrealengine\\adaptation\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\adaptation\\definitions.adaptation.h",
+            "c:\\users\\qudtn\\unrealengine\\adaptation\\source\\adaptation\\adaptation.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

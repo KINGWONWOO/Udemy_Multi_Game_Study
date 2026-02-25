@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Adaptation.gen.cpp.obj": [
+			"Adaptation.init.gen.cpp.obj",
+			"DefaultCharacter.gen.cpp.obj"
+		]
+	}
+}
