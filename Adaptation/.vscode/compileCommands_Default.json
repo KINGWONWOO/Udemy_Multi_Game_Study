@@ -1,0 +1,26 @@
+[
+	{
+		"file": "C:\\Users\\qudtn\\UnrealEngine\\Adaptation\\Source\\Adaptation\\Adaptation.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\qudtn\\UnrealEngine\\Adaptation\\.vscode\\compileCommands_Default\\Adaptation.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\qudtn\\UnrealEngine\\Adaptation\\Source\\Adaptation\\Adaptation.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\qudtn\\UnrealEngine\\Adaptation\\.vscode\\compileCommands_Default\\Adaptation.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\qudtn\\UnrealEngine\\Adaptation\\Source\\Adaptation\\Adaptation.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\qudtn\\UnrealEngine\\Adaptation\\.vscode\\compileCommands_Default\\Adaptation.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	}
+]
