@@ -49,11 +49,13 @@
 
 https://github.com/user-attachments/assets/2475d01f-8028-4c3b-9fc7-7d86b4b3b319
 
-### C++ Section 2 WareHouse 실습 영상
+### C++ Section 3 Obstacle 실습 영상
 
-[YouTube : Warehouse 실습 영상](https://youtu.be/LPfsoqLB9Kc))
+[YouTube : Obstacle 실습 영상](https://youtu.be/LPfsoqLB9Kc))
 
-https://github.com/user-attachments/assets/2475d01f-8028-4c3b-9fc7-7d86b4b3b319
+
+https://github.com/user-attachments/assets/ceebf4c1-1799-47aa-9f1b-714b587cef49
+
 
 ### Horror UI 및 연출 실습 영상
 
