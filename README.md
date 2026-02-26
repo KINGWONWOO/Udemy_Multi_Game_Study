@@ -44,24 +44,30 @@
 > *아래 링크를 클릭하면 유튜브에서 고화질로 시청할 수 있습니다. (YouTube)*
 
 ### C++ Section 2 WareHouse 실습 영상
+1인칭 물건 부수기 게임 실습 영상입니다. 해당 영상에는 따로 설명이 없습니다.
 
-[YouTube : Warehouse 실습 영상](https://youtu.be/LPfsoqLB9Kc))
+[YouTube : Warehouse 실습 영상](https://youtu.be/LPfsoqLB9Kc)
 
 https://github.com/user-attachments/assets/2475d01f-8028-4c3b-9fc7-7d86b4b3b319
 
 ### C++ Section 3 Obstacle 실습 영상
+3인칭 장애물 돌파 게임 실습 영상입니다.
 
-[YouTube : Obstacle 실습 영상](https://youtu.be/LPfsoqLB9Kc))
+[YouTube : Obstacle 실습 영상](https://youtu.be/1q0Fa9zrYCw?si=Qh1h7SfYlTPS8qEb)
 
+
+### C++ Section 4 ToonTank 실습 영상
+탑다운 뷰의 탱크 전투 게임 실습 영상입니다.
+
+[YouTube : Obstacle 실습 영상](https://youtu.be/1q0Fa9zrYCw?si=Qh1h7SfYlTPS8qEb)
 
 https://github.com/user-attachments/assets/ceebf4c1-1799-47aa-9f1b-714b587cef49
 
+### C++ Section 3 ToonTank 실습 영상
 
-### Horror UI 및 연출 실습 영상
+[YouTube : Horror 실습 영상](https://youtu.be/GmJgNhv26uA?si=kl6wvr5Rjm2Ot_et)
 
-[YouTube : Horror 실습 영상](https://youtu.be/xsyFOx90I90?si=NQGeRHLeelcNYJ8m)
-
-https://github.com/user-attachments/assets/c7a09e88-43a0-42b4-8a9f-b24fec9f37d7
+https://github.com/user-attachments/assets/ab9596fd-18fc-44fd-b8ec-ef06ab8c785c
 
 
 * Multi 실습은 자체 프로젝트 Noob 제작으로 대체 [깃헙 저장소 링크](https://github.com/KINGWONWOO/-Game_Develop-Noob)
